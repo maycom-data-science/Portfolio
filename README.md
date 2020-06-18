@@ -9,7 +9,7 @@ projetos de Data Science
 
 # Estudante de sistemas de informação-UTFPR-CT
 
-Estou no 3º período do meu curso, e recentemente tive meu primeiro contato com área de data science a qual me despertou um grande interesse, desde então venho aprimorando meus conhecimentos em python direcionado a análise de dados e buscando entender algoritmos de machine learning, para assim, usando essas tecnologias contruir meus próprios projetos.(logo postarei meu peimeiro projeto :) )
+Estou no 3º período do meu curso, e recentemente tive meu primeiro contato com área de data science a qual me despertou um grande interesse, desde então venho aprimorando meus conhecimentos em python direcionado a análise de dados.
 
 **Background in:** Python, Machine Learning.
 
