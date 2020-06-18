@@ -18,5 +18,5 @@ Estou no 3º período do meu curso, e recentemente tive meu primeiro contato com
 
 ## Projetos:
 
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
+* **Titanic: Machine learning:** https://bit.ly/2UXBuTA
 ---
