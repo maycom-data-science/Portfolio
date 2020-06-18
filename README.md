@@ -18,5 +18,5 @@ Estou no 3º período do meu curso, e recentemente tive meu primeiro contato com
 
 ## Projetos:
 
-* **Titanic: Machine learning:** https://bit.ly/2UXBuTA
+* **Titanic: Machine Learning from Disaster:** https://bit.ly/2UXBuTA
 ---
