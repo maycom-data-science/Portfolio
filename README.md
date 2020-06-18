@@ -13,6 +13,10 @@ Estou no 3º período do meu curso, e recentemente tive meu primeiro contato com
 
 **Background in:** Python, Machine Learning.
 
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/maycom-da-luz-02ba991b0)
+
 ## Projetos:
 
+* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
 ---
