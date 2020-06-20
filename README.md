@@ -18,5 +18,5 @@ Estou no 3º período do meu curso, e recentemente tive meu primeiro contato com
 
 ## Projetos:
 
-* **Kaggle - Titanic: Machine Learning from Disaster:** https://bit.ly/3ejP3El
+* **Kaggle - Titanic: Machine Learning from Disaster:**https://bit.ly/3ejP3El
 ---
