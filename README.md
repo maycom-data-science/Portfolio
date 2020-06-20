@@ -17,6 +17,7 @@ Estou no 3º período do meu curso, e recentemente tive meu primeiro contato com
 * [LinkedIn](https://www.linkedin.com/in/maycom-da-luz-02ba991b0)
 
 ## Projetos:
+obs: recomendo que abra os arquivos utilizando o google colab :)
 
 * **Kaggle - Titanic: Machine Learning from Disaster:** https://bit.ly/3ejP3El
 ---
